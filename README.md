@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hydejack
 
 The "Best Jekyll Theme by a Mile".
@@ -177,3 +178,7 @@ This table below shows what's included in each version:
 [tinyletter]: https://tinyletter.com/
 
 *[FLIP]: First-Last-Invert-Play. A coding technique to achieve performant page transition animations.
+=======
+# RileyKim.github.io
+Blog
+>>>>>>> 6f1487357a6319975b8ba2a8570b7a99fddc6de2
