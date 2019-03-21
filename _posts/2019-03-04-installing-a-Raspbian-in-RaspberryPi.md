@@ -16,7 +16,7 @@ Raspberry3 B+ 에 라즈비안을 설치하는 방법을 알아보겠습니다.
 
    [RaspberryPi HomePage]: https://www.raspberrypi.org/downloads/	"RaspberryPi HomePage"
 
-   ![](/Users/TaekSu/Desktop/스크린샷 2019-03-04 오후 8.38.29.png)
+   ![스크린샷 2019-03-04 오후 8 38 29](https://user-images.githubusercontent.com/24997255/54749115-f1216580-4c16-11e9-8b95-d3f07696095f.png)
 
 
 
@@ -24,11 +24,11 @@ Raspberry3 B+ 에 라즈비안을 설치하는 방법을 알아보겠습니다.
 
    터미널을 실행한 후 **diskutil list**를 실행하면 아래와 같은 목록을 확인하게됩니다.
 
-   ![](/Users/TaekSu/Desktop/스크린샷 2019-03-04 오후 9.00.02.png)
+   <img width="569" alt="스크린샷 2019-03-04 오후 9 00 02" src="https://user-images.githubusercontent.com/24997255/54749147-0ac2ad00-4c17-11e9-85e2-66c74789fe09.png">
 
-​	
+   ​	
 
-​	/dev/disk2가 sd카드인 것을 확인할 수 있습니다.
+   	/dev/disk2가 sd카드인 것을 확인할 수 있습니다.
 
 
 
