@@ -24,14 +24,12 @@ title:                RileyKim
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Best Jekyll Theme by a Mile".
-  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
+# "Best Jekyll Theme by a Mile".
+# **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Best Jekyll Theme by a Mile".
-  Open `_config.yml` to edit this text.
-
+  whenever you have questions to me, you can contact to me!
 # A list of keywords for your blog
 keywords:              []
 
