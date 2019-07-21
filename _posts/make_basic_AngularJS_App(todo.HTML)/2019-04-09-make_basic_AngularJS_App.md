@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "make AngularJS App easily"
+date:   2019-04-09 00:00:00
+author: RileyKim
+categories: AngularJS
+tags: AngularJS
+cover:  "/assets/instacode.png"
+---
+
 # 간단한 AngularJS 앱 만들기(todo.HTML)
 
 

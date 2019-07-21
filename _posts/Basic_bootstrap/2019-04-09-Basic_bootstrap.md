@@ -3,7 +3,7 @@ layout: post
 title:  "Basic bootstrap"
 date:   2019-04-09 00:00:00
 author: RileyKim
-categories: RaspberryPI
+categories: Bootstrap
 tags: Bootstrap
 cover:  "/assets/instacode.png"
 ---

@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Install OpenCV easily"
+date:   2019-06-18 00:00:00
+author: RileyKim
+categories: DeepLearning
+tags: DeepLearning
+cover:  "/assets/instacode.png"
+---
+
 # OpenCV 간단하게 설치하는 방법
 
 

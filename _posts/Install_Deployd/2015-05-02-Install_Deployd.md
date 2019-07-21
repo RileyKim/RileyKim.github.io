@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "Install Deploy"
+date:   2019-05-02 00:00:00
+author: RileyKim
+categories: AngularJS
+tags: AngularJS, Deployd
+cover:  "/assets/instacode.png"
+---
+
+
 # Deployd 설치
 
 

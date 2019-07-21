@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Basic JavaScript"
+date:   2019-03-26 00:00:00
+author: RileyKim
+categories: JavaScript
+tags: JavaScript
+cover:  "/assets/instacode.png"
+---
 # 자바스크립트 기초
 
 

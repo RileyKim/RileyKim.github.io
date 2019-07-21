@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Install AngularJS Enviroment"
+date:   2019-04-09 00:00:00
+author: RileyKim
+categories: AngularJS
+tags: AngularJS, Deployd
+cover:  "/assets/instacode.png"
+---
+
 # Angularjs 개발환경 설정
 
 

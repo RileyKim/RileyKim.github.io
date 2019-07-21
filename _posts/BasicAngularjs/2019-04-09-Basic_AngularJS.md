@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Basic AngularJS"
+date:   2019-04-09 00:00:00
+author: RileyKim
+categories: AngularJS
+tags: AngularJS
+cover:  "/assets/instacode.png"
+---
 # AngularJS 이해
 
 

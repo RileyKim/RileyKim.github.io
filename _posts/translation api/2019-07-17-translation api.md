@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "Use google translationAPI"
+date:   2019-07-10 00:00:00
+author: RileyKim
+categories: JAVA
+tags: JAVA
+cover:  "/assets/instacode.png"
+---
+
+
 # 구글 번역 api 사용하기 feat. java, eclipse
 
 

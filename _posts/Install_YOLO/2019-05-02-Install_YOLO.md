@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Install Tensorflow"
+date:   2019-05-02 00:00:00
+author: RileyKim
+categories: DeepLearning
+tags: DeepLearning
+cover:  "/assets/instacode.png"
+---
+
 # YOLO 설치 및 Real-Time Object detection from cam
 
 

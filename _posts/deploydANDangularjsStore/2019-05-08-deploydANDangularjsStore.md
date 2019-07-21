@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "make webStore by AngularJS, Deployd"
+date:   2019-05-08 00:00:00
+author: RileyKim
+categories: AngularJS
+tags: AngularJS
+cover:  "/assets/instacode.png"
+---
 # Deployd와 AngularJS를 통한 상점 만들기
 
 

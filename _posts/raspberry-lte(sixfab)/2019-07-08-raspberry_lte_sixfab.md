@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "connect RaspberryPI LTE"
+date:   2019-07-10 00:00:00
+author: RileyKim
+categories: RaspberryPI
+tags: RaspberryPI
+cover:  "/assets/instacode.png"
+---
+
 # Raspberry-LTE(sixfab) 설치 및 사용
 
 
