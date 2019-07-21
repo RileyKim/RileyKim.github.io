@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Install Tensorflow"
+layout: default
+title:  "Install YOLO"
 date:   2019-05-02 00:00:00
 author: RileyKim
 categories: DeepLearning
