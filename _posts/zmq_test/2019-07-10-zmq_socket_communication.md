@@ -3,7 +3,7 @@ layout: post
 title:  "Socket Communication"
 date:   2019-07-10 00:00:00
 author: RileyKim
-categories: Socket, Python
+categories: Socket Python
 tags: Socket Python
 cover:  "/assets/instacode.png"
 ---
