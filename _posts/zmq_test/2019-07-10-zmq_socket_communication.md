@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post page
 title:  "Socket Communication"
 date:   2019-07-10 00:00:00
 author: RileyKim
