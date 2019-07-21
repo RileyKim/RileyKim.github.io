@@ -4,7 +4,7 @@ title:  "Socket Communication"
 date:   2019-07-10 00:00:00
 author: RileyKim
 categories: Socket Python
-tags: Socket Python
+tags: Python
 cover:  "/assets/instacode.png"
 ---
 
