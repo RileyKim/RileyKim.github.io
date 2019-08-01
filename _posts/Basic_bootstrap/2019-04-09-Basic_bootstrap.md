@@ -6,6 +6,7 @@ author: RileyKim
 categories: Bootstrap
 tags: Bootstrap
 cover:  "/assets/instacode.png"
+comments: true
 ---
 
 # 부트스트랩의 이해
