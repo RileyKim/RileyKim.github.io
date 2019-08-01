@@ -6,6 +6,7 @@ author: RileyKim
 categories: AngularJS
 tags: AngularJS
 cover:  "/assets/instacode.png"
+comments: true
 ---
 # AngularJS 이해
 
