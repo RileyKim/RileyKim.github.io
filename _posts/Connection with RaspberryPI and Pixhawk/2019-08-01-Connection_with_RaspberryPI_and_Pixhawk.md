@@ -8,7 +8,7 @@ tags: Drone
 cover:  "/assets/instacode.png"
 comments: true
 ---
-# Connection with RaspberryPI and Pixhawk
+# Connection with RaspberryPI and Pixhawk via MavLink
 
 
 
