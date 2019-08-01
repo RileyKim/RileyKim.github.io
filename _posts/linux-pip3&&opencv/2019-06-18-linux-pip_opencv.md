@@ -6,7 +6,6 @@ author: RileyKim
 categories: DeepLearning
 tags: DeepLearning
 cover:  "/assets/instacode.png"
-comments: true
 ---
 
 # OpenCV 간단하게 설치하는 방법

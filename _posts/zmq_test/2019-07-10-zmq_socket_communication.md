@@ -6,7 +6,6 @@ author: RileyKim
 categories: Socket Python
 tags: Python
 cover:  "/assets/instacode.png"
-comments: true
 ---
 
 # zmq socket communication

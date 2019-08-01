@@ -6,7 +6,6 @@ author: RileyKim
 categories: AngularJS
 tags: AngularJS, Deployd
 cover:  "/assets/instacode.png"
-comments: true
 ---
 
 # Angularjs 개발환경 설정

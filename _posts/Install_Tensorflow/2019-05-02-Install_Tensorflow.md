@@ -6,7 +6,6 @@ author: RileyKim
 categories: DeepLearning
 tags: DeepLearning
 cover:  "/assets/instacode.png"
-comments: true
 ---
 
 # Tensorflow 설치 및 Object detection from Picture
