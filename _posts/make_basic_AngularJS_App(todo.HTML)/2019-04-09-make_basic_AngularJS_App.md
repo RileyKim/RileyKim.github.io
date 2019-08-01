@@ -6,7 +6,6 @@ author: RileyKim
 categories: AngularJS
 tags: AngularJS
 cover:  "/assets/instacode.png"
-comments: true
 ---
 
 # 간단한 AngularJS 앱 만들기(todo.HTML)

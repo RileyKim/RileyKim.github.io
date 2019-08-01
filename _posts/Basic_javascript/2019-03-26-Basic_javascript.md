@@ -6,7 +6,6 @@ author: RileyKim
 categories: JavaScript
 tags: JavaScript
 cover:  "/assets/instacode.png"
-comments: true
 ---
 # 자바스크립트 기초
 

@@ -6,7 +6,6 @@ author: RileyKim
 categories: JAVA
 tags: JAVA
 cover:  "/assets/instacode.png"
-comments: true
 ---
 
 
