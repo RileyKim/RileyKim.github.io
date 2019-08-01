@@ -6,7 +6,7 @@ author: RileyKim
 categories: RaspberryPI
 tags: RaspberryPI
 cover:  "/assets/instacode.png"
-comments:true
+comments: true
 ---
 
 # Raspberry-LTE(sixfab) 설치 및 사용
