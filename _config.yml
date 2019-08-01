@@ -42,7 +42,7 @@ jekyll-archives:
 
 # Disqus comments
 disqus_shortname: https-rileykim-github-io
-
+site.disqus_shortname: https-rileykim-github-io
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
 
