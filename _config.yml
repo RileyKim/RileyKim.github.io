@@ -41,8 +41,7 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-disqus_shortname: https-rileykim-github-io
-discus-identifier: https-rileykim-github-io
+disqus: https-rileykim-github-io
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
 
