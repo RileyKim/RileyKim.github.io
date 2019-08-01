@@ -6,6 +6,7 @@ author: RileyKim
 categories: DeepLearning
 tags: DeepLearning
 cover:  "/assets/instacode.png"
+comments: true
 ---
 
 # YOLO 설치 및 Real-Time Object detection from cam

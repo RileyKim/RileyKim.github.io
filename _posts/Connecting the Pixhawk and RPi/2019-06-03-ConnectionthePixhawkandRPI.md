@@ -6,6 +6,7 @@ author: RileyKim
 categories: Drone
 tags: Drone
 cover:  "/assets/instacode.png"
+comments: true
 ---
 
 <http://ardupilot.org/dev/docs/raspberry-pi-via-mavlink.html>
