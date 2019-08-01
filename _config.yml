@@ -9,8 +9,8 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: RileyKim
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
+title: Dev Blog RileyKim
+subtitle: "you can ask me anything"
 email: taeka89@gmail.com
 name: RileyKim
 description: >
