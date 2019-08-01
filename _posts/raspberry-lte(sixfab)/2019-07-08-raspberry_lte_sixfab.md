@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "connect RaspberryPI LTE"
 date:   2019-07-10 00:00:00
 author: RileyKim
