@@ -6,6 +6,7 @@ author: RileyKim
 categories: AngularJS
 tags: AngularJS, Deployd
 cover:  "/assets/instacode.png"
+comments: true
 ---
 
 
