@@ -72,7 +72,7 @@ social:
   - name: Twitter
     icon: twitter
     username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    url: 
     desc: Follow me on Twitter
     share: false
 
@@ -85,14 +85,14 @@ social:
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/RileyKim
+    username: RileyKim
+    url: https://github.com/RileyKim/RileyKim.github.io
     desc: Fork me on GitHub
     share: true
 
   - name: LinkedIn
     icon: linkedin
-    username: taeksu
+    username: TaeksuKim
     url: https://www.linkedin.com/in/taeksu/
     desc: Connect with me on LinkedIn
     share: true
@@ -106,7 +106,7 @@ social:
 
   - name: YouTube
     icon: youtube
-    username: Taeksu Kim
+    username: TaeksuKim
     url: https://www.youtube.com/channel/UC0dLVZb0gBDJt-W-p-X_NdQ?view_as=subscriber
     desc: Subscribe on YouTube
     share: true
