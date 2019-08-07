@@ -135,7 +135,7 @@ HomeBrew 설치를 안했다면,
 
 
 
---------------------
+---------------------
 
 **주의사항**!
 
@@ -186,7 +186,6 @@ ruby version  2.4.4가 나오면 정상적으로 설치가 된 것입니다.
 **Install Bundler**
 
 ```  
-gem install bundler rbenv rehash
 #install bundler
 $ gem install bundler
 $ rbenv rehash
