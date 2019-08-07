@@ -44,7 +44,6 @@ OS :  High Sierra
 
 
 ### 1. HomeBrew 설치하기
-
 ------
 
 **HomeBrew는 쉽게 패키지 매니저라고 생각하면 됩니다. **
@@ -70,7 +69,6 @@ $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/inst
 
 
 #### 1-1 HomeBrew 사용법
-
 -----------------
 
 ```
@@ -86,7 +84,6 @@ $ brew update               # Homebrew 업데이트
 
 
 ### 2. Git 설치하기
-
 -----------------------------------------
 
 터미널을 열어 `git --version`을 실행해보자. 
@@ -98,7 +95,6 @@ $ brew update               # Homebrew 업데이트
 
 
 #### 2-1 HomeBrew
-
 ---------------
 
 HomeBrew를 설치가 되어있다면, 
@@ -108,7 +104,6 @@ HomeBrew를 설치가 되어있다면,
 
 
 #### 2-2 git HomePage
-
 ---------------------
 
 HomeBrew 설치를 안했다면, 
@@ -126,7 +121,6 @@ HomeBrew 설치를 안했다면,
 
 
 ### 3. Ruby 설치하기
-
 -----------------------
 
 **맥북은 기본적으로 설치가 되어 있는 걸로 알고 있습니다. **
@@ -196,7 +190,6 @@ Ruby에서 사용하는 패키지는 **Gem**이라고 불리고 gem의 의존성
 
 
 ### 4. Jekyll 설치
-
 -----------
 
 ```
@@ -207,7 +200,6 @@ gem install bundler jekyll
 
 
 ### 5. Git repository 생성
-
 ------------
 
 ![git_blog_init_3](https://user-images.githubusercontent.com/24997255/62448587-2a600980-b7a3-11e9-8250-0a79cd8ed267.PNG)
@@ -233,7 +225,6 @@ Git repository를 생성합니다.
 
 
 ### 6. Jekyll 테마 다운받기
-
 --------------
 
 Jekyll 테마 : <http://jekyllthemes.org/>
