@@ -246,6 +246,7 @@ centrarium theme를 다운받는다.
 
 
 # 7. Git Repository와 Jekyll 연동하기
+------------------------
 
 다운받은 테마를 나의 repository에 연동하여 Git Blog를 생성할 것이다. 
 

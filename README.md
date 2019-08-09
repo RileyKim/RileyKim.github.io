@@ -1,4 +1,4 @@
-# you can ask me anything
+# it's your camino, don't follow them
 
 [RileyKim][Rileykim]
 
