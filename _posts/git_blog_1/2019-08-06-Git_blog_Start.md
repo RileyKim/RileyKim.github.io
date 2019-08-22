@@ -6,7 +6,7 @@ author: RileyKim
 categories: GitBlog
 tags: GitBlog
 cover:  "/assets/instacode.png"
-comments: true
+comments:true
 ---
 
 # Git Blog 시작하기
