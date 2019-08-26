@@ -26,7 +26,6 @@ comments: true
 
 
 ##### 댓글을 추가하기 위해선 다음의 3단계를 진행하면 됩니다. 
-
 ----------------------
 
 1. DIsqus 가입하기
@@ -37,8 +36,7 @@ comments: true
 
 
 ### 1. Disqus 가입하기
-
----------------
+----------------------
 
 ![Git_Blog_Disqus_1](https://user-images.githubusercontent.com/24997255/62588137-9c4d6580-b8ff-11e9-870a-3441fcc3dfe4.PNG)
 
@@ -47,8 +45,7 @@ comments: true
 
 
 ### 2. Disqus 설정하기
-
---------------------------------
+----------------------
 
 ![Git_Blog_Disqus_2](https://user-images.githubusercontent.com/24997255/62588167-bab36100-b8ff-11e9-8f2e-751d2dadd54d.PNG)
 
@@ -77,7 +74,7 @@ Website URL은 본인이 사용할 사이트 또는 블로그의 URL을 입력�
 
 
 ### 3. GitBlog와 Disqus 연동하기
---------------------
+----------------------
 
 Gitblog와 Disqus를 연동하기 위해선 2가지의 요소가 필요합니다. 
 1. _config.yml 수정
@@ -106,18 +103,18 @@ _config.yml파일내 disqus 댓글을 적용하기 위한 소스가 있을 겁�
 
 
 
---------------
+
 
 ![Git_Blog_Disqus_6](https://user-images.githubusercontent.com/24997255/62606655-aa1edd00-b937-11e9-9261-06eb2211d39d.PNG)
 
------------------
+
 
 **나의 Shortname은 https-rileykim-github-io**
 
 
 
 #### 3-2. _includes폴더 내 disqus.html파일 추가
-----------------
+----------------------
 
 ![Git_Blog_Disqus_7](https://user-images.githubusercontent.com/24997255/63253159-48059680-c2ac-11e9-9aa5-8f0146f7519d.PNG)
 
@@ -131,7 +128,7 @@ _config.yml파일내 disqus 댓글을 적용하기 위한 소스가 있을 겁�
 
 **dusqus.html  Code**
 
-```html
+```
 <div id="disqus_thread"></div>
 <script>
 
@@ -154,12 +151,12 @@ s.setAttribute('data-timestamp', +new Date());
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 ```
 
-_includes폴더에 disqus.html 파일을 생성합니다. 
+_includes폴더에 disqus.html파일을 생성합니다. 
 
 
 
 #### 3-3 . _config.yml 수정
-----------------------------------------
+----------------------
 
 **_config.yml**
 
@@ -188,8 +185,7 @@ _includes폴더에 disqus.html 파일을 생성합니다.
 
 
 ### 4. Post 작성
-
--------------
+----------------------
 
 Post 작성해보신 분들은 아시겠지만, ```.md```  최상단에 title, date 등을 넣습니다. 
 
