@@ -15,7 +15,7 @@ comments: true
 
 깃블로그 포스팅에 대해 피드백을 얻을 수 있는 좋은 방법 중 하나는 댓글입니다. 
 
-**Disqus를 통해 GitBlog에 댓글 기능을 추가하도록 하겠습니다. **
+**Disqus를 통해 GitBlog에 댓글 기능을 추가하도록 하겠습니다.**
 
 
 
@@ -77,24 +77,19 @@ Website URL은 본인이 사용할 사이트 또는 블로그의 URL을 입력�
 
 
 ### 3. GitBlog와 Disqus 연동하기
-
 --------------------
 
 Gitblog와 Disqus를 연동하기 위해선 2가지의 요소가 필요합니다. 
-
 1. _config.yml 수정
 2. _incluedes폴더 내 disqus.html파일 추가
 
 
 
 #### 3-1. _config.yml 수정
-
 ----------------------
 
 먼저 _config.yml파일을 수정하도록 합니다. 
-
 _config.yml파일내 disqus 댓글을 적용하기 위한 소스가 있을 겁니다.
-
 그 소스는 잘 못된 것이니 지워버리고 다음과 같이 수정합니다.  혹은 없다면 추가한다. 
 
 ![Git_Blog_Disqus_5](https://user-images.githubusercontent.com/24997255/62606474-498fa000-b937-11e9-8bc8-e470cfe8fa02.PNG)
@@ -107,7 +102,7 @@ _config.yml파일내 disqus 댓글을 적용하기 위한 소스가 있을 겁�
 
 ![Git_Blog_Disqus_4](https://user-images.githubusercontent.com/24997255/62600007-b3ed1400-b928-11e9-9830-909b245fe5b5.PNG)
 
-**disqus site - genernal에서 확인할 수 있습니다. **
+**disqus site - genernal에서 확인할 수 있습니다.**
 
 
 
@@ -122,7 +117,6 @@ _config.yml파일내 disqus 댓글을 적용하기 위한 소스가 있을 겁�
 
 
 #### 3-2. _includes폴더 내 disqus.html파일 추가
-
 ----------------
 
 ![Git_Blog_Disqus_7](https://user-images.githubusercontent.com/24997255/63253159-48059680-c2ac-11e9-9aa5-8f0146f7519d.PNG)
@@ -131,7 +125,7 @@ _config.yml파일내 disqus 댓글을 적용하기 위한 소스가 있을 겁�
 
 
 
-**dusqus.html **
+**dusqus.html**
 
 ![Git_Blog_Disqus_9](https://user-images.githubusercontent.com/24997255/63497017-efc5d300-c4fd-11e9-9b63-7b48cdfc4dda.PNG)
 
@@ -165,10 +159,9 @@ _includes폴더에 disqus.html 파일을 생성합니다.
 
 
 #### 3-3 . _config.yml 수정
-
 ----------------------------------------
 
-**_config.yml **
+**_config.yml**
 
 ![Git_Blog_Disqus_10](https://user-images.githubusercontent.com/24997255/63497155-33b8d800-c4fe-11e9-88e0-9c396da33aad.PNG)
 
