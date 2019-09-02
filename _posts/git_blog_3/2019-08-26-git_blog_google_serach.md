@@ -21,11 +21,12 @@ GithubBlog하시는 분들은 다들 포스팅을 하실텐데요.
 
 ## 요약
 
-1. 웹사이트에 사이트 등록
-2. 사이트 소유권 확인
-3. sitemap.xml 등록
-4. robots.txt 등록
-5. 검색 확인
+1. 구글 웹마스터 도구 접속
+2. 깃블로그 등록 및 인증
+3. sitemap.xml파일 생성 및 제출
+4. robot.txt파일 생성
+5. 구글 검색 확인
+6. 주의사항
 
 
 
@@ -75,7 +76,7 @@ sitemap.xml파일을 작성하여 깃블로그 최상단 디렉토리에 저장�
 
 git push를 진행합니다. 
 
-```xml
+```
 ---
 layout: null
 ---
@@ -137,7 +138,7 @@ robot.txt파일을 작성하여 깃블로그 최상단 디렉토리에 저장합
 
 git push를 진행합니다. 
 
-```text
+```
 User-agent:*
 Allow:/
 
@@ -146,7 +147,7 @@ Sitemap:https://rileykim.github.io/sitemap.xml
 
 
 
-#### 6. 구글 검색 확인
+#### 7. 구글 검색 확인
 
 모든 과정이 완료된 후 깃블로그가 구글 검색엔진에 적용되기 위해서 몇일간의 시간이 필요합니다. 
 
@@ -156,7 +157,7 @@ Sitemap:https://rileykim.github.io/sitemap.xml
 
 
 
-#### 7. 주의사항
+#### 8. 주의사항
 
 title명으로 검색됩니다. 
 
