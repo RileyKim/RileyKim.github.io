@@ -76,7 +76,7 @@ sitemap.xml파일을 작성하여 깃블로그 최상단 디렉토리에 저장�
 
 git push를 진행합니다. 
 
-
+```
 ---
 layout: null
 ---
@@ -106,7 +106,7 @@ layout: null
     </url>
   {% endfor %}
 </urlset>
-
+```
 
 
 
