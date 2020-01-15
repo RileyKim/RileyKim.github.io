@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "Pointer Example_1"
+date:   2020-01-15 00:00:00
+author: RileyKim
+categories: C Language
+tags: C Language
+cover:  "/assets/instacode.png"
+comments: true
+---
+
 # Pointer Example_1
 
 
@@ -36,7 +47,25 @@
 
 
 
-**pointer_example_3**
+
+
+**pointer_example_4**
+
+<script src="https://gist.github.com/RileyKim/6e37928bea28edd1d0b2bf3c3ff79dbe.js"></script>
+
+**[result]**
+
+![C_example_4](https://user-images.githubusercontent.com/24997255/72305391-f1fc1a00-36b6-11ea-9dc9-85422a7543f6.PNG)
+
+
+
+**pointer_example_5**
+
+<script src="https://gist.github.com/RileyKim/2626cbb04bdd197aeed4277f491b3183.js"></script>
+
+**[result]**
+
+![C_example_5](https://user-images.githubusercontent.com/24997255/72413851-12f66500-37b4-11ea-9c29-9894525f1680.PNG)
 
 
 
