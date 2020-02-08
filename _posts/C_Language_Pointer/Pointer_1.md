@@ -1,3 +1,15 @@
+---
+layout: post
+title:  "Pointer Example_1"
+date:   2020-02-07 00:00:00
+author: RileyKim
+categories: Clanguage
+tags: C
+cover:  "/assets/instacode.png"
+comments: true
+---
+
+
 # Pointer Example_1
 
 
