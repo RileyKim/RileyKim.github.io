@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "Double Pointer Example"
+date:   2020-02-16 00:00:00
+author: RileyKim
+categories: Clanguage
+tags: C
+cover:  "/assets/instacode.png"
+comments: true
+---
+
 # 포인터의 포인터
 
 **더블포인터**

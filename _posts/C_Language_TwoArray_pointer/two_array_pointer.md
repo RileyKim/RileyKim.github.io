@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "Tow Array Pointer Example"
+date:   2020-02-16 00:00:00
+author: RileyKim
+categories: Clanguage
+tags: C
+cover:  "/assets/instacode.png"
+comments: true
+---
+
 # 2차 배열의 포인터
 
 **two array pointer example_1**
