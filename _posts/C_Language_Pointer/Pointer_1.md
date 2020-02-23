@@ -16,11 +16,11 @@ comments: true
 
 **pointer_example_1**
 
-<script src="https://gist.github.com/RileyKim/e7900591f43bc5ca5f9a06fd3be9a1ac.js"></script>
+<script src="https://gist.github.com/RileyKim/e7900591f43bc5ca5f9a06fd3be9a1ac.js" ></script>
 
 **[result]**
 
-![C_example_1](https://user-images.githubusercontent.com/24997255/72239268-cbd96a00-3623-11ea-89fa-4f3245f7989f.PNG)
+![C_example_1](https://user-images.githubusercontent.com/24997255/72239268-cbd96a00-3623-11ea-89fa-4f3245f7989f.PNG){: width="300" height="300"){: .center}
 
 
 
@@ -28,11 +28,11 @@ comments: true
 
 **pointer_example_2**
 
-<script src="https://gist.github.com/RileyKim/547fb53fc93c677de16344928dd90e1e.js"></script>
+<script src="https://gist.github.com/RileyKim/547fb53fc93c677de16344928dd90e1e.js" ></script>
 
 **[result]**
 
-![C_example_2](https://user-images.githubusercontent.com/24997255/72239351-1f4bb800-3624-11ea-8952-5f1990232183.PNG)
+![C_example_2](https://user-images.githubusercontent.com/24997255/72239351-1f4bb800-3624-11ea-8952-5f1990232183.PNG){: width="300" height="300"){: .center}
 
 
 
@@ -44,7 +44,7 @@ comments: true
 
 **[result]**
 
-![C_example_3](https://user-images.githubusercontent.com/24997255/72241862-46f24e80-362b-11ea-888b-d1484e73ca30.PNG)
+![C_example_3](https://user-images.githubusercontent.com/24997255/72241862-46f24e80-362b-11ea-888b-d1484e73ca30.PNG){: width="300" height="300"){: .center}
 
 
 
@@ -56,7 +56,7 @@ comments: true
 
 **[result]**
 
-![C_example_4](https://user-images.githubusercontent.com/24997255/72305391-f1fc1a00-36b6-11ea-9dc9-85422a7543f6.PNG)
+![C_example_4](https://user-images.githubusercontent.com/24997255/72305391-f1fc1a00-36b6-11ea-9dc9-85422a7543f6.PNG){: width="300" height="300"){: .center}
 
 
 
@@ -66,7 +66,7 @@ comments: true
 
 **[result]**
 
-![C_example_5](https://user-images.githubusercontent.com/24997255/72413851-12f66500-37b4-11ea-9c29-9894525f1680.PNG)
+![C_example_5](https://user-images.githubusercontent.com/24997255/72413851-12f66500-37b4-11ea-9c29-9894525f1680.PNG){: width="300" height="300"){: .center}
 
 
 
