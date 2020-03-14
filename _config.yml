@@ -4,21 +4,22 @@ gems:
   - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-feed
 
 exclude:
   - "/vendor/"
 
 # Site settings
-title: RileyKim
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
+title: Dev Blog RileyKim
+subtitle: "it's your camino, don't follow them"
 email: taeka89@gmail.com
 name: RileyKim
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  I am Developer who love travel.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
-baseurl: "/blog/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://rileykim.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
@@ -41,7 +42,7 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-# disqus_shortname: bencentra
+disqus: https-rileykim-github-io
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
@@ -73,28 +74,28 @@ social:
   - name: Twitter
     icon: twitter
     username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    url: 
     desc: Follow me on Twitter
-    share: true
+    share: false
 
   - name: Facebook
     icon: facebook
     username: thebencentra
     url:
     desc: Friend me on Facebook
-    share: true
+    share: false
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: TaeksuKim
+    url: https://github.com/RileyKim/RileyKim.github.io
     desc: Fork me on GitHub
-    share: false
+    share: true
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: TaeksuKim
+    url: https://www.linkedin.com/in/taeksu/
     desc: Connect with me on LinkedIn
     share: true
 
@@ -103,28 +104,28 @@ social:
     username:
     url:
     desc: Add me to your Circles
-    share: true
+    share: false
 
   - name: YouTube
     icon: youtube
-    username:
-    url:
+    username: TaeksuKim
+    url: https://www.youtube.com/channel/UC0dLVZb0gBDJt-W-p-X_NdQ?view_as=subscriber
     desc: Subscribe on YouTube
-    share: false
+    share: true
 
   - name: Instagram
     icon: instagram
-    username:
-    url:
+    username: taeksu_
+    url: https://www.instagram.com/taeksu_/
     desc: Follow me on Instagram
-    share: false
+    share: true
 
   - name: Pinterest
     icon: pinterest
     username:
     url:
     desc: Follow me on Pinterest
-    share: true
+    share: false
 
   - name: SoundCloud
     icon: soundcloud
@@ -173,7 +174,7 @@ social:
     username:
     url:
     desc: Share to Reddit
-    share: true
+    share: false
 
   - name: "Hacker News"
     icon: hacker-news

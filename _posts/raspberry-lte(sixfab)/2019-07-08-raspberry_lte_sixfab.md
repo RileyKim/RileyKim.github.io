@@ -6,6 +6,7 @@ author: RileyKim
 categories: RaspberryPI
 tags: RaspberryPI
 cover:  "/assets/instacode.png"
+comments: true
 ---
 
 # Raspberry-LTE(sixfab) 설치 및 사용
@@ -256,7 +257,5 @@ sudo route add default ppp0
 
 
 exit 0
-```
-
-
+```                       
 

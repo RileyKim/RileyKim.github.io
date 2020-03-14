@@ -1,11 +1,12 @@
 ---
-layout: default
+layout: post
 title:  "Install YOLO"
 date:   2019-05-02 00:00:00
 author: RileyKim
 categories: DeepLearning
 tags: DeepLearning
 cover:  "/assets/instacode.png"
+comments: true
 ---
 
 # YOLO 설치 및 Real-Time Object detection from cam

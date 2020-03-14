@@ -6,6 +6,7 @@ author: RileyKim
 categories: AngularJS
 tags: AngularJS
 cover:  "/assets/instacode.png"
+comments: true
 ---
 
 # 간단한 AngularJS 앱 만들기(todo.HTML)
@@ -301,69 +302,7 @@ OS환경 : Window10
 
 -------------------------------------
 
-
-
-```html
-<!DOCTYPE html>
-<html data-ng-app>
-<head>
-    <title>To Do List</title>
-    <link href="bootstrap.css" rel="stylesheet">
-    <link href="bootstrap-theme.css" rel="stylesheet">
-    <script src="angular.js"></script>
-    <script>
-        var model = {
-            user : "Adam",
-            items: [{action : "Buy Flowers", done : false},
-                        {action: "Get shoes", done: false},
-                        {action : "Collect Tickets", done:true},
-                        {action : "Call Hoe", done: false}]
-        };
-
-        var todoApp = angular.module("todoApp",[]);
-        todoApp.controller("ToDoCtrl", function ($scope) {
-            $scope.todo= model;
-        });
-    </script>
-</head>
-<body  ng-app="todoApp", ng-controller='ToDoCtrl'>
-    <div class="page-header">
-        <h1>
-            {{todo.user}}'s To Do List
-            <span class="label label-default">{{todo.items.length}}</span>
-        </h1>
-    </div>
-
-    <div class="panel">
-        <div class="input-group">
-            <input class="form-control"/>
-            <span class="input-group-btn">
-                <button class="btn btn-default">Add</button>
-            </span>
-        </div>
-
-        <table class="table table-striped">
-            <thead>
-                <tr>
-                    <th>Description</th>
-                    <th>Done</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr ng-repeat="item in todo.items">
-                    <td>{{item.action}}</td>
-                    <!--체크박스 추가-->
-                    <td><input type="checkbox" ng-model="item.done"/></td>
-                    <td>{{item.done}}</td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
-</body>
-</html>
-```
-
-
+<script src="https://gist.github.com/RileyKim/24826a21c71d1e3e6821f5f2b3118dbd.js"></script>
 
 ![](https://user-images.githubusercontent.com/24997255/55522069-5f0d6880-56be-11e9-8652-f9f00750b93e.PNG)
 

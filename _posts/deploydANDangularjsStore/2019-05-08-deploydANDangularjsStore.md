@@ -6,6 +6,7 @@ author: RileyKim
 categories: AngularJS
 tags: AngularJS
 cover:  "/assets/instacode.png"
+comments: true
 ---
 # Deployd와 AngularJS를 통한 상점 만들기
 

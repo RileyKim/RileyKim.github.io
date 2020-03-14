@@ -6,6 +6,7 @@ author: RileyKim
 categories: RaspberryPI
 tags: RaspberryPI
 cover:  "/assets/instacode.png"
+comments: true
 ---
 
 # 라즈베리파이3 B+ 라즈비안 설치

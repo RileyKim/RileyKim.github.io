@@ -1,11 +1,12 @@
 ---
-layout: post page
+layout: post
 title:  "Socket Communication"
 date:   2019-07-10 00:00:00
 author: RileyKim
-categories: Socket Python
+categories: Python
 tags: Python
 cover:  "/assets/instacode.png"
+comments: true
 ---
 
 # zmq socket communication
