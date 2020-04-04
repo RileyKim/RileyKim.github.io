@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "Multi array Pointer"
+date:   2020-04-04 00:00:00
+author: RileyKim
+categories: Clanguage
+tags: C
+cover:  "/assets/instacode.png"
+comments: true
+---
+
 # 다차원 배열의 포인터
 
 **two array pointer example_1**
