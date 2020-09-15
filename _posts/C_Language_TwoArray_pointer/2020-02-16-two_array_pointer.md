@@ -3,7 +3,7 @@ layout: post
 title:  "Tow Array Pointer Example"
 date:   2020-02-16 00:00:00
 author: RileyKim
-categories: Clanguage
+categories: C
 tags: C
 cover:  "/assets/instacode.png"
 comments: true
