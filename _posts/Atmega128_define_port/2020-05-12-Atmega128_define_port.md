@@ -9,7 +9,7 @@ cover:  "/assets/instacode.png"
 comments: true
 ---
 
-# Define Atmega128A PORT Register
+# Define Atmega128 PORT Register
 
 
 
