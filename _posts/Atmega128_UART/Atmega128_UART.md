@@ -1,4 +1,16 @@
-# Atmega128 UART Communication
+---
+layout: post
+title:  "Atemga128 UART"
+date:   2020-09-15 00:00:00
+author: RileyKim
+categories: Atmel
+tags: Atmel
+cover:  "/assets/instacode.png"
+comments: true
+---
+
+
+# Atmega128 UART 
 
 
 
@@ -87,7 +99,6 @@ UDREn = 1 : 송신 버퍼가 비어있어서 새로운 송신 데이터를 받�
 1. ##### UBRR을 통하여 baudrate설정 
 
    Baudrate가 9600일 경우, (14745600/(16*9600)) -1 = 95
-
    95 = 0x5f이다.
 
    ````
