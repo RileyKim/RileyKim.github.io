@@ -3,13 +3,13 @@ layout: post
 title:  "Declare Atmega port"
 date:   2020-05-12 00:00:00
 author: RileyKim
-categories: Atmega
-tags: Atmega
+categories: Atmel
+tags: Atmel
 cover:  "/assets/instacode.png"
 comments: true
 ---
 
-# Define Atmega128A PORT Register
+# Define Atmega128 PORT Register
 
 
 

@@ -238,8 +238,6 @@ cmd를 열고  **\build\darknet\x64** (darknet.exe파일 경로)로 가서
 
 
 
-![InstallingYOLO-11](https://user-images.githubusercontent.com/24997255/56412501-5f615280-62bf-11e9-962b-f8c3c8ab68eb.PNG)
-
 
 
 
