@@ -3,7 +3,7 @@ layout: post
 title:  "Multi array Pointer"
 date:   2020-04-04 00:00:00
 author: RileyKim
-categories: Clanguage
+categories: C
 tags: C
 cover:  "/assets/instacode.png"
 comments: true
