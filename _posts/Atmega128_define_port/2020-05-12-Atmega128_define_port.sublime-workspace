@@ -1,0 +1,267 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Ri",
+				"RileyKim"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_posts/Atmega128_define_port/2020-05-12-Atmega128_define_port.md",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_posts/algorithm_codeup_20200916/2020-09-16-codeup_20200916.md",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_posts/C_Language_MultiArray_pointer/multi_array_pointer.md",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_posts/C_Language_TwoArray_pointer/two_array_pointer.md",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_posts/C_Language_DoublePointer/DoublePointer.md",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_posts/C_Language_Pointer/Pointer_1.md",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_posts/MakingF450/2019-07-10-MakingF450.md",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_posts/C_Language_Pointer/Pointer_2.md",
+		"/Users/TaekSu/Desktop/not_config.yml",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_config.yml",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/assets/logo.png",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_includes/page_divider.html",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_posts/2015-04-18-dummy.markdown",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_posts/zmq_test/2019-07-10-zmq_socket_communication.md",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_posts/Install_AngularJS_Environment/2019-04-09-Install_AngularJS_Enviroment.md",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_posts/Connecting the Pixhawk and RPi/2019-06-03-ConnectionthePixhawkandRPI.md",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_posts/BasicAngularjs/2019-04-09-Basic_AngularJS.md",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_posts/deploydANDangularjsStore/2019-05-08-deploydANDangularjsStore.md",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_posts/Basic_javascript/2019-03-26-Basic_javascript.md",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_posts/Install_raspberry/2019-03-04-installing-a-Raspbian-in-RaspberryPi.md",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_posts/Basic_bootstrap/2019-04-09-Basic_bootstrap.md",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_posts/jekyll/2015-04-18-welcome-to-jekyll.md",
+		"/Users/TaekSu/Desktop/RileyKim.github.io-master/_posts/2019-04-09-Understanding-AngularJS.md",
+		"/Users/TaekSu/Desktop/git_/BasicAngularjs/Basic_AngularJS.md",
+		"/Users/TaekSu/Desktop/RileyKim.github.io-master/feed.xml",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_posts/2015-04-18-welcome-to-jekyll.md",
+		"/Users/TaekSu/.Trash/2015-04-18-dummy.markdown",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/assets/instacode.png",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/jekyll-theme-hydejack.gemspec",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/404.md",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/about.md",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/CHANGELOG.md",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/feed.xml",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/forms-by-example.md",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/index.md",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/LICENSE.md",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/NOTICE.md",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/package-lock.json",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/package.json",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/posts.md",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/riley.md",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/rileykim.md",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/sitemap.xml",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/webpack.config.js",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/assets/img/blog/lazy-images.jpg",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_includes/components/author.html",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_includes/components/message.html",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/assets/img/blog/blog-layout.jpg",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/assets/img/blog/caleb-george-old.jpg",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/assets/img/blog/caleb-george.jpg",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/assets/img/blog/COLOURlovers.com-Hydejack.png",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/assets/img/blog/cover-page.jpg",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/assets/img/blog/dark-mode-ii.jpg",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/assets/img/blog/example-content-ii.jpg",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/assets/img/blog/example-content-iii.jpg",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/assets/img/blog/hydejack-8.png",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/assets/img/blog/hydejack-8@0,25x.png",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/assets/img/blog/hydejack-8@0,5x.png",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/assets/img/blog/resume.png",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/assets/img/blog/steve-harvey.jpg",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/assets/img/blog/w3m.png",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/assets/img/blog/wade-lambert.jpg",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/assets/img/blog/dark-mode.jpg",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_includes/body/main.html",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_includes/head/index.html",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_includes/head/links.html",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_layouts/about.html",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_layouts/list.html",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_includes/body/menu.html",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/index.html",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_includes/body/nav.html",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_includes/body/scripts.html",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_includes/body/sidebar.html",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_layouts/blog.html",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_includes/my-body.html",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_includes/my-head.html",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_includes/body/comments.html",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_site/sitemap.xml",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_site/index.html",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/.babelrc",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_includes/header.txt",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_includes/my-scripts.html",
+		"/Users/TaekSu/Desktop/git/blog/RileyKim.github.io/_includes/body/footer.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "2020-05-12-Atmega128_define_port.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
