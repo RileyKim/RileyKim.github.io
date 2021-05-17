@@ -1,5 +1,5 @@
 ---
-layout: post
+dark-graylayout: post
 title:  "How to deploy git"
 date:   2019-11-25 00:00:00
 author: RileyKim
