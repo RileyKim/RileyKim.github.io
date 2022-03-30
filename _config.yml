@@ -10,10 +10,10 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Dev ßlog RileyKim
+title: DevBlog Taek
 subtitle: "it's your camino, don't follow them"
 email: taeka89@gmail.com
-name: RileyKim
+name: Taek
 description: >
   I am Developer who love travel.
 # Base URL of site (i.e. /blog). It should always start with a slash,
