@@ -54,7 +54,12 @@ comments: true
 
 ![Connecting the Pixhawk and RPi-3](https://user-images.githubusercontent.com/24997255/62025374-f1f48480-b212-11e9-9eae-4734d145549f.png)
 
+
+**2022년 5월 26일 다시 해보니 설치안됨..**
 `sudo apt-get install screen python-wxgtk2.8 python-matplotlib python-opencv python-pip python-numpy python-dev libxml2-dev libxslt-dev python-lxml` 
+
+이것으로 설치한다. 
+```sudo apt-get install python3-dev python3-opencv python3-wxgtk4.0 python3-pip python3-matplotlib python3-lxml python3-pygame```
 
 
 
