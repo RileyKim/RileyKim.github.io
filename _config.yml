@@ -10,12 +10,12 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: DevBlog Taek
+title: DevBlog RileyKim
 subtitle: "it's your camino, don't follow them"
 email: taeka89@gmail.com
 name: Taek
 description: >
-  I am Developer who love travel.
+  I am IT Developer who love travel.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
