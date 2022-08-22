@@ -32,3 +32,17 @@ if(cal_mon[i] == month) // 동일하다고 판단못함...이유는 Null값의 �
 
 
 <script src="https://gist.github.com/RileyKim/b7f3dbe57ae71c4b14a5e3afe731b432.js"></script>
+
+
+
+**2022.08.22 추가 작업...**
+
+이게 왜 틀렸지...답이 정확하게 나오는데...
+
+이유를 모르겠다...
+
+예제 문제는 다 정답으로 나오는데..후..
+
+
+
+<script src="https://gist.github.com/RileyKim/8714906662fb14d67f3cac610b3a72df.js"></script>
