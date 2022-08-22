@@ -1,6 +1,6 @@
 ---
 ayout: post
-title:  "[C언어] BackJun Algorithm Problem 1331"
+title:  "[C언어] BackJun Algorithm Problem 1340"
 date:   2022-8-22 00:00:00
 author: RileyKim
 categories: Algorithm
