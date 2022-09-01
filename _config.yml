@@ -104,7 +104,7 @@ social:
     username:
     url:
     desc: Add me to your Circles
-    share: false
+    share: true
 
   - name: YouTube
     icon: youtube
