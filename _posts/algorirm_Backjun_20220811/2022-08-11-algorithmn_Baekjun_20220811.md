@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "[C언어] BackJun Algorithm Problem 1331"
-date:   2022-8-11 00:00:00
+title:  "[C언어] BaekJun Algorithm Problem 1331"
+date:   2022-08-11 00:00:00
 author: RileyKim
 categories: Algorithm
 tags: Algorithm
@@ -14,12 +14,6 @@ comments: true
 
 
 ## (C언어) 백준 알고리즘 문제 1331번 나이트투어 
-
-
-
-
-
-아직 푸는 중....
 
 
 
