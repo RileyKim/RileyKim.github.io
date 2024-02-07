@@ -17,26 +17,6 @@ comments: true
 
 예를 들어, t="3141592"이고 p="271" 인 경우, t의 길이가 3인 부분 문자열은 314, 141, 415, 159, 592입니다. 이 문자열이 나타내는 수 중 271보다 작거나 같은 수는 141, 159 2개 입니다
 
-'''
-#include <string>
-#include <vector>
 
-using namespace std;
 
-int solution(string t, string p) {
-    int pl = p.length();
-    int tl = t.length();
-    long tempp = stol(p);
-    int answer = 0;
-    
-    for(int i =0; i<=tl-pl; i++){
-        string temp = t.substr(i,pl);
-        long tempInt = stol(temp);
-        if( tempInt <= tempp){
-            answer ++;
-        }
-    }
-    
-    return answer;
-}
-'''
+<script src="https://gist.github.com/RileyKim/4d2b685e29d59034258373d6d5bceacc.js"></script>
